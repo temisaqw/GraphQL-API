@@ -2,6 +2,8 @@
 Uma api de busca e cadastro em JAVA usando GraphQL
 
 # Como usar:
+
+É nescessário um banco de dados postgres com nome 'graph-db' disponivel para executar.
 Baixe e execute o projeto usando o quarkus. 
 Abra a URL http://localhost:8080/q/graphql-ui/ para ter acesso ao UI do GraphQL
 
